@@ -1,0 +1,17 @@
+﻿*.dll
+*.pdb
+*.deps.json
+*.assets.cache
+*.nuget.cache
+*.assets.json
+*.csproj.nuget.g.targets
+*.csproj.nuget.g.props
+*.csproj.nuget.dgspec.json
+*.csproj.FileListAbsolute.txt
+*.Commands.csproj.FileListAbsolute.txt
+*.suo
+*.dtbcache.v2
+*/obj/Debug
+*/bin/Debug
+**/obj/Debug
+**/bin/Debug
